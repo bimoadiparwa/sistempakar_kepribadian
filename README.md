@@ -1,1 +1,1 @@
-# sistempakar_kepribadian
+# Aplikasi Sistem Pakar Kepribadian dengan Menggunakan Metode Naive Bayes
